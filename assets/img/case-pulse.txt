@@ -1,0 +1,9 @@
+prompt: Cinematic photograph of a perfectly still dark water surface at night with a single thin luminous line of warm amber light #E8794A running across it like a heartbeat pulse reflected on water, gentle ripples, cool slate-blue #3D5A80 mist above the surface, deep near-black #0A0A0A frame edges, volumetric fog, filmic, no text, no watermark. Moody health-tech backdrop for a website case-study card, must stay dark overall.
+mode: generate
+model: gpt-image-2
+size: 1536x1024
+quality: high
+transparent: False
+count: 1
+files:
+  - case-pulse.png

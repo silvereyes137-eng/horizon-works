@@ -1,0 +1,9 @@
+prompt: Two photographic human hands reaching toward each other, fingertips almost touching, dead center like the Creation of Adam gesture, on a pure black #0A0A0C background: the left hand lit entirely in cool silver-grey studio light, the right hand lit entirely in warm peach-coral studio light, high contrast, deep true blacks, elegant, no text, no watermark. Source plate for a halftone conversion; hands must fill most of the frame width.
+mode: generate
+model: gpt-image-2
+size: 1536x1024
+quality: high
+transparent: False
+count: 1
+files:
+  - hands-plate.png

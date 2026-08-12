@@ -1,0 +1,9 @@
+prompt: A single thin glowing wireframe mountain ridge line low in the frame on pure black #0B0C10, cyan #35D8E0 contours with faint magenta #FF3FA4 echo lines beneath, one small acid-green #C6FF6B marker tick, vast black negative space above, dark futuristic cartography, no text, no watermark. Website call-to-action background.
+mode: generate
+model: gpt-image-2
+size: 1536x1024
+quality: high
+transparent: False
+count: 1
+files:
+  - cta-sg.png

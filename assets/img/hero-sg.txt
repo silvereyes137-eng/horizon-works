@@ -1,0 +1,9 @@
+prompt: Neon wireframe topographic terrain: glowing vector contour-line mountains on pure black #0B0C10, cyan #35D8E0 primary contour lines with magenta #FF3FA4 ridge highlights, one thin acid-green #C6FF6B horizon marker line across the frame, scattered tiny telemetry tick marks, dark futuristic cartography aesthetic, ultra-wide, no text, no watermark. Website hero background; top third must stay pure black for a headline.
+mode: generate
+model: gpt-image-2
+size: 1536x1024
+quality: high
+transparent: False
+count: 1
+files:
+  - hero-sg.png

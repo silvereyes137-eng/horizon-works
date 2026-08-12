@@ -1,0 +1,11 @@
+prompt: Rebuild this object as a glowing wireframe contour render on pure black #0B0C10: thin cyan #35D8E0 contour lines tracing its full 3D form, sparse magenta #FF3FA4 secondary lines, three tiny acid-green #C6FF6B telemetry tick marks nearby, no solid surfaces, dark sci-fi cartography, keep the object's silhouette and position identical. No text, no watermark.
+mode: edit
+model: gpt-image-2
+size: 1024x1024
+quality: high
+transparent: False
+count: 1
+files:
+  - totem-saas-sg.png
+sources:
+  - C:\Users\ThomasB\Desktop\Claude folders\Project 19 (website)\public\assets\img\totem-saas.png

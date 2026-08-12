@@ -1,0 +1,9 @@
+prompt: Studio photograph of a single glowing holographic starburst orb: a luminous low-poly geometric star with radiating crystalline spikes, warm amber core light #E8794A with cool slate-blue #3D5A80 rim reflections on the facets, floating against a pure near-black #0A0A0A background, soft volumetric glow, shallow depth of field, cinematic product lighting, no text, no watermark. Part 1 of a series of 3 matching dark sculptural objects for website feature cards.
+mode: generate
+model: gpt-image-2
+size: 1024x1024
+quality: high
+transparent: False
+count: 1
+files:
+  - totem-ai.png

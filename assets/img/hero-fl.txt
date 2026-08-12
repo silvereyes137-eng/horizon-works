@@ -1,0 +1,11 @@
+prompt: Regrade this image to blue-hour: cool periwinkle and slate-blue atmosphere, deep ink #0F1520 shadows, dusk slate #3D5474 midtones, soft fog #8FA3C8 highlights, misty and serene; the single existing warm light source becomes a soft pale-gold glow #E8A063 and is the ONLY warmth in frame, everything else strictly cool. Keep the composition identical. No text, no watermark.
+mode: edit
+model: gpt-image-2
+size: 1024x1024
+quality: high
+transparent: False
+count: 1
+files:
+  - hero-fl.png
+sources:
+  - C:\Users\ThomasB\Desktop\Claude folders\Project 19 (website)\public\assets\img\hero.png
